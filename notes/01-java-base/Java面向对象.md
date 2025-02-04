@@ -1590,7 +1590,7 @@
     - 注意：原来是什么子类，向下转为该子类没有问题；原来是Dog转成Cat就有问题。
   - 代码示例：
   ```java
-  class Animail{
+  class Animal{
   	public void eat(){
 		syso("吃东西");
 	}
